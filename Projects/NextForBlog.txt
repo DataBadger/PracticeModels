@@ -2,6 +2,6 @@ ClientRetention - Ready for publishing
 CustomerClust - Ready for publishing
 CensusSalary - Ready for publishing
 HeightWeight - Ready for publishing
-OnlineRetail 
+OnlineRetail - needs fixing
 
 Wine needs to be fixed
